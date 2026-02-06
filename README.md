@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Moumita, a Software Enginner and an aspiring ML/AI Engineer.
+I'm Moumita, a Software Engineer and an aspiring ML/AI Engineer.
 
 I design scalable backend systems and explore ML System Design. I also practice problem-solving every week on https://takeuforward.org/
 
@@ -15,4 +15,6 @@ I design scalable backend systems and explore ML System Design. I also practice 
 
 ---
 
-How to reach me: www.linkedin.com/in/moumita-hossain-4a8059372
+### How to reach me: 
+
+www.linkedin.com/in/moumita-hossain-4a8059372
